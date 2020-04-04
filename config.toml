@@ -13,7 +13,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # Your Google analytics code.
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-91335628-8"
 # Your Disqus sortname.
 # disqusShortname = "localhost"
 
@@ -32,6 +32,15 @@ summaryLength = 20
 
     # Content types which are excludes Disqus comments.
     disableDisqusTypes = ["page"]
+
+    # Content types which are excludes comments.
+    disableCommentsTypes = ["page"]
+
+    # Your Utterances settings.
+    utterancesRepo = "sdutacm/sdutacm.github.io"
+    utterancesIssueTerm = "pathname"
+    utterancesLightTheme = "github-light"
+    utterancesDarkTheme = "github-dark"
 
     # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
     featherIconsCDN = true

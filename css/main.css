@@ -249,7 +249,7 @@ ul {
     margin: 0;
     padding: 0;
     border: none;
-    min-width: 50px;
+    /* min-width: 50px; */
     margin-left: 15px;
 }
 
@@ -373,6 +373,20 @@ ul {
 
 .pagination .page-item.page-next {
     text-align: right;
+}
+
+.comments {
+    margin-top: 30px;
+}
+
+.cc {
+    margin-top: 45px;
+    font-size: 80%;
+}
+
+.cc p {
+    margin-block-start: 0.5em;
+    margin-block-end: 0;
 }
 
 table th {

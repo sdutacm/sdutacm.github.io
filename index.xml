@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SDUTACM 运维技术中心</title>
+    <link>https://sdutacm.github.io/</link>
+    <description>Recent content on SDUTACM 运维技术中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2008-2020 SDUTACM. All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 03 Apr 2020 23:36:10 +0800</lastBuildDate>
+    
+	<atom:link href="https://sdutacm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About us</title>
+      <link>https://sdutacm.github.io/about/</link>
+      <pubDate>Fri, 03 Apr 2020 23:36:10 +0800</pubDate>
+      
+      <guid>https://sdutacm.github.io/about/</guid>
+      <description>SDUTACM 运维技术中心。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SDUTACM 运维技术中心</title>
-    <link>https://sdutacm.github.io/tags/</link>
+    <link>https://506.sdutacm.cn/tags/</link>
     <description>Recent content in Tags on SDUTACM 运维技术中心</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2008-2020 SDUTACM. All Rights Reserved.</copyright>
     
-	<atom:link href="https://sdutacm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://506.sdutacm.cn/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

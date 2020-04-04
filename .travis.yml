@@ -1,0 +1,33 @@
+dist: bionic
+
+language: go
+
+go:
+  - master
+
+branches:
+  only:
+    - src 
+
+install:
+  - go get github.com/gohugoio/hugo
+
+before_script:
+  - rm -rf public 2> /dev/null
+
+script:
+  - hugo
+  - echo "$CNAME_URL" > public/CNAME
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  local-dir: public
+  target-branch: master
+  github-token: $GITHUB_TOKEN
+  email: $GITHUB_EMAIL
+  name: $GITHUB_USERNAME
+  fqdn: $CNAME_URL
+  keep-history: true
+  on:
+    branch: src

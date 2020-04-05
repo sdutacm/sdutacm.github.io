@@ -5,7 +5,7 @@ theme = "ezhil"
 
 enableEmoji = true
 
-copyright = "© 2008-2020 SDUTACM. All Rights Reserved."
+copyright = "© 2008-2020 SDUTACM"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"

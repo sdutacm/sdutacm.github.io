@@ -392,6 +392,7 @@ ul {
 
 .avatar {
     display: inline-block;
+    margin-right: 4px;
 }
 
 .avatar img {
